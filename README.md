@@ -65,7 +65,8 @@ sideboard and play with the rest (i.e. draft 60, build a deck of minimum 40).
 Single deck is a game where all players draw cards from a large shared deck.
 It's a simple format for fast casual play
 (as there's no individual deck building at all)
-that nevertheless allows a lot of diversity through the design of common deck.
+that nevertheless allows a lot of diversity through the design
+of the common deck (see below).
 
 Landless rules are used with the following modifications:
 
@@ -107,18 +108,18 @@ Single deck rules are used with the following modifications:
 ## Deck design for single deck and random draft
 
 In principle any assortment of cards could be used for single deck or random draft.
-It's also clear that not all of them would be equivalently balanced and interesting.
+Not all of them would be equivalently balanced and interesting.
 
 In order to make the game more predictable it could be useful to balance out the
-colors and rarities of the cards. It seems (and I haven't checked this) that
-having the same number of cards for each color and roughly the same number of
+colors and rarities of the cards. It seems (although I haven't checked this) that
+having the same number of cards of each color and roughly the same number of
 colorless cards would work.
 
 Rarity distribution would also have an effect on the game with
-complexity of the game raising as the percentage of rarer cards is increased.
+complexity of the game rising as the percentage of rarer cards is increased.
 For a feel close to normal booster draft we could use
 the same distribution as in booster packs.
-From my brief research it appears to be 80 commons
+From brief research it appears to be 80 commons
 to 24 uncommons to 7 rares to 1 mythical rare.
 
 For 2-8 players a deck of 200 cards composed of non-land cards
