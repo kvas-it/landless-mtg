@@ -1,17 +1,20 @@
 # Landless MTG
+Version 1.1.
 
 Landless MTG is a style of [Magic: The Gathering](http://magic.wizards.com/),
 in which the deck contains no land cards.
-Instead, any card (as an alternative to playing it normally) can be played
-as a land.
+Instead any card can be played as a land. Any card can also be played normally.
+The phrases 'play as land' and 'play normally' are used below to indicate these
+two modes of playing a card.
 
-The advantages of Landless MTG are that it allows having more colors in the deck and
-greater diversity of strategies.
-It eliminates the cases of mana starvation and spell starvation
-that produce trivial games (opponents kill the starved one).
-Landless MTG also makes playing with a randomized deck possible,
-which allows novel styles of play such as random draft or
-single deck MTG (see below).
+The advantages of Landless MTG are that it allows having more colors in the
+deck and greater diversity of strategies.
+It reduces the probability of mana starvation and spell starvation that produce
+trivial games where the opponents kill the starved one.
+Landless MTG also makes playing with a randomized deck possible, which allows
+novel styles of play such as random draft or single deck MTG (see below).
+Finally it allows more diversity of strategies from the same deck depending on
+which cards are played as land and which cards are played normally.
 
 ## Rules
 
@@ -19,20 +22,19 @@ single deck MTG (see below).
 (http://magic.wizards.com/en/gameinfo/gameplay/formats/comprehensiverules)
 are used with the following modifications:
 
-1. Any card can instead be played as a land.
-   In this case it acquires a new identity and
-   keeps it until it moves to any zone other than battlefield or exile.
+1. Any card can be played as land or normally. When the card is played as land
+   it acquires a new identity and keeps it until it moves to any zone other
+than battlefield or exile.
 
-2. If a card of a single color is played as a land,
-   it becomes the basic land of that color.
+2. If a card of one color is played as a land, it becomes the basic land of
+   that color.
 
-3. If a card of two or three colors is played as a land,
-   it becomes a non-basic land that produces mana of any of its colors.
-   It enters the battlefield tapped.
+3. If a card of two or three colors is played as a land, it becomes a non-basic
+   land that produces mana of any of its colors.  It enters the battlefield
+tapped.
 
-4. If a card of of four or five colors is played as a land,
-   it becomes a non-basic land called "Transguild Promenade"
-   with the following text:
+4. If a card of of four or five colors is played as a land, it becomes a
+   non-basic land called "Transguild Promenade" with the following text:
 
    > Transguild Promenade enters the battlefield tapped.
 
@@ -40,24 +42,23 @@ are used with the following modifications:
 
    > {T}: Add one mana of any color to your mana pool.
 
-5. If a colorless card is played as a land,
-   it becomes non-basic land called "Shimmering Grotto"
-   with the following text:
-   
+5. If a colorless card is played as a land, it becomes non-basic land called
+   "Shimmering Grotto" with the following text:
+
    > {T}: Add {1} to your mana pool.
 
    > {1}, {T}: Add one mana of any color to your mana pool.
 
 ## Variations
 
-Landless MTG enables some variations that don't really work with normal rules
-but become playable when you don't need to worry about the mana base of your
-deck (which you almost don't need to in landless).
+Landless MTG enables some variations that don't work with normal rules but
+become playable when you don't need to worry about the mana base of your deck
+(which is normally not an issue in landless).
 
 ### Random draft
 
 Players draft their decks randomly from a sufficiently large collection of cards.
-They could play directly with the drafted deck or put part of the cards into a
+They can play directly with the drafted deck or put part of the cards into a
 sideboard and play with the rest (i.e. draft 60, build a deck of minimum 40).
 
 ### Single deck
@@ -75,7 +76,8 @@ Landless rules are used with the following modifications:
 2. If the deck runs out, all graveyards are shuffled together to form new deck and
    the game continues.
 
-3. The first 7 cards are dealt by one player to everyone in a round-robin fashion.
+3. The first 7 cards are dealt by one player to each player in a round-robin
+   fashion.
 
 ### Single deck with double draw
 
@@ -140,6 +142,11 @@ for a total of 142 common cards.
 
 For smaller games it should be possible to build a deck or around 100 cards
 with roughly the same proportions.
+
+It is usually not desirable to include very few very powerful cards into a
+randomized deck because any player who draws one of those cards would have a
+big advantage. This increases the role of chance and decreases the role of
+skill.
 
 ----------------------------------------
 
