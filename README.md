@@ -18,8 +18,7 @@ which cards are played as land and which cards are played normally.
 
 ## Rules
 
-[Normal magic rules]
-(http://magic.wizards.com/en/gameinfo/gameplay/formats/comprehensiverules)
+[Normal magic rules](http://magic.wizards.com/en/gameinfo/gameplay/formats/comprehensiverules)
 are used with the following modifications:
 
 1. Any card can be played as land or normally. When the card is played as land
